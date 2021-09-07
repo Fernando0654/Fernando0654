@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fernando0654
+- 👀 I’m interested in programming, writing and story-telling.
+- 🌱 I’m currently learning MongoDB, React and Angular.
+- 💞️ I’m looking to collaborate on whatever you want!
+- 📫 How to reach me: send a DM to my IG: https://www.instagram.com/fernando_fe_n/
